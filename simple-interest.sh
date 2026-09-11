@@ -14,4 +14,4 @@ read time
 # Simple Interest Formula: (P * R * T) / 100
 simple_interest=$(echo "scale=2; ($principal * $rate * $time) / 100" | bc)
 
-echo "The Simple Interest is: $simple_interest"
+echo "The simple interest is: $simple_interest"
