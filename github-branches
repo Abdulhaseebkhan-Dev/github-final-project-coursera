@@ -1,0 +1,6 @@
+$ git branch -vv
+  bug-fix-typo fa3846a Fix simple interest output typo
+* main         3608ac1 [origin/main] bug-fix-revert
+
+$ git status --short --branch
+## main...origin/main
