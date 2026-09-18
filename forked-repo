@@ -1,5 +1,5 @@
 Command:
-curl -s -H "Authorization: token YOUR_TOKEN" https://api.github.com/repos/usmaniqbal036/mcino-Introduction-to-Git-and-GitHub
+curl -s -H "Authorization: token YOUR_TOKEN" https://api.github.com/repos/Abdulhaseebkhan-Dev/mcino-Introduction-to-Git-and-GitHub
 
 Output:
 
